@@ -56,3 +56,11 @@ impl <unwrap> for <Maybe>
       Maybe:None => panic "Unable to unwrap Maybe"
     }
 ```
+
+## Layers concepts
+
+I have this idea in programming languages that there are dimensions to it, for example in some languages a type system might be it's own dimension.
+
+With this concept in mind, I've tried to separate some of the dimensions/concepts (to some degree) out into consistent parts of the language.
+
+`<type>` indicating types and `{value}` (typically) indicating values/expressions for a call being part of that
