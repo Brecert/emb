@@ -28,6 +28,3 @@ def fib <n: int.expect {n < 2}>
 
 def fib <n: int>
   fib {n - 1} + fib {n - 2}
-
-
-

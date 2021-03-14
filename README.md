@@ -10,6 +10,7 @@ Currently it draws inspiration from
 - elixir for how elegant syntax sugar can be
 - rust for api concepts and some type concepts
 - dyon for some of the "weirder" ideas it's introduced
+- [cue](https://cuelang.org/) for the way it validates data
 
 In it's current form, it'd be unfeasable to realistically implement
 
