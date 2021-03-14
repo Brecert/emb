@@ -6,10 +6,10 @@ _I'm currently making up a lot of the ideas as I go, so the examples may be inco
 
 Currently it draws inspiration from
 
-- powershell for the idea of functions being valid commands, and complex parts of the language still just being shell
-- elixir for how elegant syntax sugar can be
-- rust for api concepts and some type concepts
-- dyon for some of the "weirder" ideas it's introduced
+- [powershell](https://github.com/powershell/powershell) for the idea of functions being valid commands, and complex parts of the language still just being shell
+- [elixir](https://elixir-lang.org/) for how elegant syntax sugar can be
+- [rust](https://www.rust-lang.org/) for api concepts and some type concepts
+- [dyon](https://github.com/PistonDevelopers/dyon) for some of the "weirder" ideas it's introduced
 - [cue](https://cuelang.org/) for the way it validates data
 
 In it's current form, it'd be unfeasable to realistically implement
