@@ -17,7 +17,7 @@ In it's current form, it'd be unfeasable to realistically implement
 Things I want for a language like this
 
 - able to be compiled/executed with the command structure intact and helper options added
-  see [minecraft.expected.slang](./examples/minecraft.expected.slang) for what I'd want that to look like
+  see [minecraft.expected.slang](./examples/minecraft/minecraft.expected.slang) for what I'd want that to look like
 - advanced types, just because it's more dynamic/scripting does not mean types should be avoided
   - instead types will be mostly inferred
   - really only
